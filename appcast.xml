@@ -3,12 +3,12 @@
     <channel>
         <title>Pano</title>
         <item>
-            <title>1.1</title>
-            <pubDate>Wed, 18 Nov 2026 22:27:37 +0300</pubDate>
-            <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <title>1.0</title>
+            <pubDate>Thu, 19 Nov 2026 01:51:46 +0300</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.7</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/tospuklan/Pano-Releases/releases/download/test-1.1-build3/Pano-1.1-Adhoc-Trial-build3.dmg" length="4086741" type="application/octet-stream" sparkle:edSignature="9x5OT8sVJzSN6pOAGgCvDSy1RNb+5TqjxzElJngoCuvM0tdo3N7N7o99skdxSg/KYo/vaJktYC7/KK9Sr+OiDA=="/>
+            <enclosure url="https://github.com/tospuklan/Pano-Releases/releases/download/v1.0/Pano-1.0.dmg" length="4095323" type="application/octet-stream" sparkle:edSignature="uIUNcfxqFh/dNXa3ewv4XJRJ2iXUut+Lh9dQoiK+oYQQVszGNnwlkcRHFs8G7kBvyAzDMlQu0FIxOK+ByEgUCw=="/>
         </item>
     </channel>
 </rss>
