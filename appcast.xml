@@ -1,2 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"><channel><title>Pano Updates</title><description>Pano update feed. No public release yet.</description><language>tr</language></channel></rss>
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Pano</title>
+        <item>
+            <title>1.1</title>
+            <pubDate>Wed, 18 Nov 2026 22:27:37 +0300</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.7</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/tospuklan/Pano-Releases/releases/download/test-1.1-build3/Pano-1.1-Adhoc-Trial-build3.dmg" length="4086741" type="application/octet-stream" sparkle:edSignature="9x5OT8sVJzSN6pOAGgCvDSy1RNb+5TqjxzElJngoCuvM0tdo3N7N7o99skdxSg/KYo/vaJktYC7/KK9Sr+OiDA=="/>
+        </item>
+    </channel>
+</rss>
